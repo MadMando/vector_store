@@ -11,4 +11,4 @@ A lightweight **vector database** built from scratch for **retrieval-augmented g
 
 ## Installation
 working issues out, but it's kinda workign.
-test test
+test testsdf
