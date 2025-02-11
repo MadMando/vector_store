@@ -10,4 +10,4 @@ A lightweight **vector database** built from scratch for **retrieval-augmented g
 - Works with **Hugging Face Transformers**
 
 ## Installation
-
+working issues out, but it's kinda workign.
